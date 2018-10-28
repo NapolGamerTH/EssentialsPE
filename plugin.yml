@@ -1,7 +1,7 @@
-name: EssentialsPE
+name: EssentialsPE-indev
 main: EssentialsPE\Loader
-version: 2.1.0
-api: [3.0.0]
+version: 2.1.0-indev
+api: [4.0.0]
 authors:
 - LegendsOfMCPE Team
 - NapolGamer TH
