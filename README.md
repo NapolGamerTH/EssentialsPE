@@ -3,7 +3,7 @@ EssentialsPE
 
 | Poggit | Discord |
 | :---: | :---: |
-[![Poggit](https://poggit.pmmp.io/ci.shield/poggit-orphanage/EssentialsPE/EssentialsPE)](https://poggit.pmmp.io/ci/poggit-orphanage/EssentialsPE/EssentialsPE) | <a href="https://discord.gg/NgHf9jt"><img src="https://discordapp.com/api/guilds/402639859535052811/embed.png" alt="Discord server"/></a> |
+[![Poggit](https://poggit.pmmp.io/ci.shield/NapolGamerTH/EssentialsPE/EssentialsPE)](https://poggit.pmmp.io/ci/NapolGamerTH/EssentialsPE/EssentialsPE) | <a href="https://discord.gg/NgHf9jt"><img src="https://discordapp.com/api/guilds/402639859535052811/embed.png" alt="Discord server"/></a> |
 
 
 The port version of [Bukkit Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/) for [PocketMine-MP Software](http://www.pmmp.io/).
@@ -16,6 +16,7 @@ The port version of [Bukkit Essentials](http://dev.bukkit.org/bukkit-plugins/ess
 
 EssentialsPE is a large plugin with a lot of features. Some features can be enabled and disabled in the configuration, but more configuration will be added in the future.
 
+> ***make for altays lastet version*** <
 ### Features
 You can find a detailed list of features included in EssentialsPE over [here](https://github.com/LegendOfMCPE/EssentialsPE/wiki).</br>
  - Warps:<br>
