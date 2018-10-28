@@ -2,8 +2,10 @@ name: EssentialsPE
 main: EssentialsPE\Loader
 version: 2.1.0
 api: [3.0.0]
-author: LegendsOfMCPE Team
-website: https://github.com/LegendOfMCPE/EssentialsPE
+authors:
+- LegendsOfMCPE Team
+- NapolGamer TH
+website: https://github.com/NapolGamerTH/EssentialsPE
 
 permissions:
     essentials:
