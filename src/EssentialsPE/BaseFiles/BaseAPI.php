@@ -502,7 +502,7 @@ class BaseAPI{
      * @return bool
      */
     public function setFlying(Player $player, bool $mode): bool{
-        $ev = new PlayerFlyModeChangeEvent($this, $player, $mode));
+        $ev = new PlayerFlyModeChangeEvent($this, $player, $mode);
         if($ev->isCancelled()){
             return false;
         }
